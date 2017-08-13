@@ -1,0 +1,16 @@
+Hello, Git
+Hello, again
+Hello, once again
+<<<<<<< HEAD
+Adding another line for remote push
+Feature1 addition
+=======
+Fixing BUG1
+Feature2 related addition
+Feature2 addition
+<<<<<<< Updated upstream
+apply second
+=======
+apply first
+>>>>>>> Stashed changes
+>>>>>>> main
